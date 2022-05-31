@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Red",
+    "age": 10,
+    "pokemons": [
+      {
+        "name": "Snorlax",
+        "hp": 62,
+        "attack": 3,
+        "specialAttack": 0,
+        "defense": 6,
+        "specialDefense": 4,
+        "abilities": [
+          {
+            "damage": 4,
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": 5
+          },
+          {
+            "damage": 0,
+            "stun": "false",
+            "dodge": "true",
+            "cooldown": 5
+          }
+        ],
+        "items": [
+          {
+            "name": "Scut",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 2,
+            "specialDefense": 2
+          },
+          {
+            "name": "Pelerină",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 3
+          },
+          {
+            "name": "Brad de Crăciun",
+            "hp": 0,
+            "attack": 3,
+            "specialAttack": 0,
+            "defense": 1,
+            "specialDefense": 0
+          }
+        ]
+      },
+      {
+        "name": "JigglyPuff",
+        "hp": 34,
+        "attack": 4,
+        "specialAttack": 0,
+        "defense": 2,
+        "specialDefense": 3,
+        "abilities": [
+          {
+            "damage": 4,
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": 4
+          },
+          {
+            "damage": 3,
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": 4
+          }
+        ],
+        "items": [
+          {
+            "name": "Vitamine",
+            "hp": 2,
+            "attack": 2,
+            "specialAttack": 2,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Vestă",
+            "hp": 10,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Baghetă Magică",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 3,
+            "defense": 0,
+            "specialDefense": 0
+          }
+        ]
+      },
+      {
+        "name": "Bulbasaur",
+        "hp": 42,
+        "attack": 0,
+        "specialAttack": 5,
+        "defense": 3,
+        "specialDefense": 1,
+        "abilities": [
+          {
+            "damage": 6,
+            "stun": "false",
+            "dodge": "false",
+            "cooldown": 4
+          },
+          {
+            "damage": 5,
+            "stun": "false",
+            "dodge": "false",
+            "cooldown": 3
+          }
+        ],
+        "items": [
+          {
+            "name": "Pelerină",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 3
+          },
+          {
+            "name": "Bagheta Magică",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 3,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Săbiuță",
+            "hp": 0,
+            "attack": 3,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blue",
+    "age": 11,
+    "pokemons": [
+      {
+        "name": "Eevee",
+        "hp": 39,
+        "attack": 0,
+        "specialAttack": 4,
+        "defense": 3,
+        "specialDefense": 3,
+        "abilities": [
+          {
+            "damage": 5,
+            "stun": "false",
+            "dodge": "false",
+            "cooldown": 3
+          },
+          {
+            "damage": 3,
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": 3
+          }
+        ],
+        "items": [
+          {
+            "name": "Bagheta Magică",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 3,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Brad de Crăciun",
+            "hp": 0,
+            "attack": 3,
+            "specialAttack": 0,
+            "defense": 1,
+            "specialDefense": 0
+          },
+          {
+            "name": "Scut",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 2,
+            "specialDefense": 2
+          }
+        ]
+      },
+      {
+        "name": "Squirtle",
+        "hp": 60,
+        "attack": 0,
+        "specialAttack": 3,
+        "defense": 5,
+        "specialDefense": 5,
+        "abilities": [
+          {
+            "damage": 4,
+            "stun": "false",
+            "dodge": "false",
+            "cooldown": 3
+          },
+          {
+            "damage": 2,
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": 2
+          }
+        ],
+        "items": [
+          {
+            "name": "Baghetă Magică",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 3,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Vitamine",
+            "hp": 2,
+            "attack": 2,
+            "specialAttack": 2,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Brad de Crăciun",
+            "hp": 0,
+            "attack": 3,
+            "specialAttack": 0,
+            "defense": 1,
+            "specialDefense": 0
+          }
+        ]
+      },
+      {
+        "name": "Psyduck",
+        "hp": 43,
+        "attack": 3,
+        "specialAttack": 0,
+        "defense": 3,
+        "specialDefense": 3,
+        "abilities": [
+          {
+            "damage": 2,
+            "stun": "false",
+            "dodge": "false",
+            "cooldown": 4
+          },
+          {
+            "damage": 2,
+            "stun": "true",
+            "dodge": "false",
+            "cooldown": 5
+          }
+        ],
+        "items": [
+          {
+            "name": "Scut",
+            "hp": 0,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 2,
+            "specialDefense": 2
+          },
+          {
+            "name": "Săbiuță",
+            "hp": 0,
+            "attack": 3,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 0
+          },
+          {
+            "name": "Vestă",
+            "hp": 10,
+            "attack": 0,
+            "specialAttack": 0,
+            "defense": 0,
+            "specialDefense": 0
+          }
+        ]
+      }
+    ]
+  }
+]
